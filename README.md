@@ -1,7 +1,7 @@
 # Message-Passing-For-Factor-Graphs
 A simple implementation of sum-product algorithm for computing marginals over tree-structured factor graphs.
 
-# Sample run
+## Sample run
 python sumproduct.py
 
 The example in the code is depicted pictorially in factor_graph.jpeg. This means that we have a function f of 8 variables, such that it can be factorized as follows
